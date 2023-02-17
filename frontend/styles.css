@@ -1,0 +1,26 @@
+.sec{
+    font-size: 11px;
+     background-image: url("images/wood1.jpg");
+
+     padding: 2% ;
+     display: grid;
+     margin: 0;
+}
+.form-control{
+    font-size: 11px;
+}
+.cilas{
+    text-align: center;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.sec2{
+   
+display: inline-block;
+    background-color: #ffffff;
+padding: 0% 6%;
+    margin: 0% 25%;
+}
+
